@@ -30,6 +30,12 @@ Other than the `passed` column, each student has 30 columns of data about them, 
 
 The code used in the blog posts can be found in the [/scripts](/scripts) directory.
 
+You can run the code for Part 1 by running the following command:
+
+```
+python ./scripts/part_1.py
+```
+
 
 ## Blog Posts
 
